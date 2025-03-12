@@ -9,13 +9,14 @@ This repo includes all the code, setup instructions, and demo materials. The goa
 
 ## 🎥 Demo Video
 
+[![Watch the demo](https://img.youtube.com/vi/A6UBuaj39uQ/0.jpg)](https://youtu.be/A6UBuaj39uQ?si=e74KsBVeFc9MODB2)
 
 ---
 
 ## 👤 About Me
 - **Name:** Adam Adamczyk  
 - **Project Title:** Student Management System  
-- **GitHub Repository:** [https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/tree/main?tab=readme-ov-file(#)](#) 
+- **GitHub Repository:** [Project Link](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/tree/main?tab=readme-ov-file(#))  
 
 ---
 
@@ -41,3 +42,6 @@ You'll need the following to run the project:
 - **Bootstrap (for UI styling)**
 - **Git (for version control)**
 - **Web Browser** (Chrome/Firefox recommended)
+
+---
+
