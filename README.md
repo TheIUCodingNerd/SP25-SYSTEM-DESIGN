@@ -9,7 +9,7 @@ This repo includes all the code, setup instructions, and demo materials. The goa
 ## 👤 About Me
 - **Name:** Adam Adamczyk  
 - **Project Title:** Student Management System  
-- **GitHub Repository:** https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/tree/main?tab=readme-ov-file(#) *(Adding this once everything is uploaded!)*  
+- **GitHub Repository:** https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/tree/main?tab=readme-ov-file(#) 
 
 ---
 
