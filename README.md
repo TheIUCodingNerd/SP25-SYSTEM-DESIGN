@@ -9,7 +9,7 @@ This repo includes all the code, setup instructions, and demo materials. The goa
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/A6UBuaj39uQ/0.jpg)](https://youtu.be/A6UBuaj39uQ?si=e74KsBVeFc9MODB2)
+🎬 **[Click here to watch the demo](https://youtu.be/A6UBuaj39uQ?si=e74KsBVeFc9MODB2)**
 
 ---
 
@@ -44,4 +44,3 @@ You'll need the following to run the project:
 - **Web Browser** (Chrome/Firefox recommended)
 
 ---
-
