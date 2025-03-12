@@ -1,20 +1,24 @@
 # Student Management System
 
 ## 📌 Overview
-Hey everyone! This is my **Student Management System**, a web-based app designed to make student data management easier for schools. Instead of relying on spreadsheets or paper records, this system provides a simple way to track **grades, attendance, and student details** in one place. 
+Hey everyone! This is my **Student Management System**, a web-based app designed to make student data management easier for schools. Instead of relying on spreadsheets or paper records, this system provides a simple way to track **grades, attendance, and student details** in one place.
 
 This repo includes all the code, setup instructions, and demo materials. The goal is to build a **secure, user-friendly, and scalable** system that helps teachers and administrators manage student information efficiently.
 
 ---
 
 ## 🎥 Demo Video  
-
 🎬 **[Click here to watch the demo](https://youtu.be/A6UBuaj39uQ?si=e74KsBVeFc9MODB2)**  
 
 ---
 
 ## 📜 Project Flyer  
 📄 **[Download the Flyer (PDF)](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/blob/main/Student%20Management%20System.pdf)**  
+
+---
+
+## 📂 Presentation Slides  
+📊 **[Download the Presentation (PPTX)](https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/raw/refs/heads/main/Student%20Management%20System%20Presentation%20Adam%20Adamczyk.pptx)**  
 
 ---
 
