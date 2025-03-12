@@ -8,7 +8,7 @@ This repo includes all the code, setup instructions, and demo materials. The goa
 ---
 
 ## 🎥 Demo Video
-🔗 **[Check out the demo here](#)** (I'll update this with the actual demo link)
+
 
 ---
 
