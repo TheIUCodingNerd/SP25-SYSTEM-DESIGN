@@ -5,17 +5,11 @@ Hey everyone! This is my **Student Management System**, a web-based app designed
 
 This repo includes all the code, setup instructions, and demo materials. The goal is to build a **secure, user-friendly, and scalable** system that helps teachers and administrators manage student information efficiently.
 
----
-
-## 🎥 Demo Link
-🔗 **[Check out the demo here](#)** (I'll update this with the actual demo link)
-
----
 
 ## 👤 About Me
 - **Name:** Adam Adamczyk  
 - **Project Title:** Student Management System  
-- **GitHub Repository:** [Project Link](#) *(Adding this once everything is uploaded!)*  
+- **GitHub Repository:** https://github.com/TheLinuxCodingNerd/SP25-SYSTEM-DESIGN/tree/main?tab=readme-ov-file(#) *(Adding this once everything is uploaded!)*  
 
 ---
 
