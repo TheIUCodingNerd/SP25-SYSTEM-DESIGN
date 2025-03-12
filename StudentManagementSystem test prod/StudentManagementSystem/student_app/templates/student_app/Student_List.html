@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Student List</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .table-container {
+            max-width: 900px;
+            margin: auto;
+        }
+        .table {
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        th {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            vertical-align: middle;
+        }
+        td {
+            text-align: center;
+            vertical-align: middle;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <div class="table-container">
+            <h2 class="text-center mb-4">Student List</h2>
+
+            <table class="table table-striped table-bordered shadow">
+                <thead>
+                    <tr>
+                        <th>Student ID</th>
+                        <th>Name</th>
+                        <th>Contact</th>
+                        <th>Email</th>
+                        <th>Class Name</th>
+                        <th>Grade Section</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for student in students %}
+                    <tr>
+                        <td>{{ student.student_id }}</td>
+                        <td>{{ student.name }}</td>
+                        <td>{{ student.contact }}</td>
+                        <td>{{ student.email }}</td>
+                        {% if student.grade_set.all %}
+                            {% for grade in student.grade_set.all %}
+                            <td>{{ grade.subject }}</td>
+                            <td>{{ grade.grade_section }}</td>
+                            <td>{{ grade.score }}%</td>
+                            {% endfor %}
+                        {% else %}
+                            <td colspan="3" class="text-muted">No Grade Data</td>
+                        {% endif %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+
+            <a href="{% url 'add_student' %}" class="btn btn-primary w-100 mt-3">Add New Student</a>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
