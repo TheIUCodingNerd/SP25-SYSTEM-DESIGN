@@ -1,7 +1,7 @@
 # Data Collection Script - Student Management System
 
 ## 📌 Overview
-This script automatically inserts sample student records into the MySQL database of the **Student Management System**.
+The script collect_student_data.py automatically inserts sample student records into the MySQL database of the **Student Management System**.
 
 ## 🛠 Prerequisites
 Ensure you have the following before running the script:
